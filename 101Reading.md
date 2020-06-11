@@ -10,3 +10,7 @@
 - [ ] [How to take advantage of Redis just adding it to your stack](http://oldblog.antirez.com/post/take-advantage-of-redis-adding-it-to-your-stack.html)
 
 
+- [ ] [Strategy: Change The Problem](http://highscalability.com/blog/2014/9/3/strategy-change-the-problem.html)
+
+
+- [ ] [Operating Systems](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
